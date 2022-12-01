@@ -1,0 +1,29 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/examples.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kausar-barkat/RxJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kausar-barkat/RxJS/issues"
+  },
+  "homepage": "https://github.com/kausar-barkat/RxJS#readme",
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "rxjs": "^7.5.7",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14"
+  }
+}
